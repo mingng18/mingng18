@@ -1,10 +1,10 @@
-# Hi there, I'm Ng Gih Ming 👋
-I'm a **Final-year Computer Science student** at the **University of Malaya**, specializing in Software Engineering but deeply passionate about creative fields like **graphic design, photography,** and **videography**. Welcome to my GitHub profile!
+# Hi there, I'm Ming 👋
+I'm a **Final-year Computer Science student** at the **University of Malaya**, specializing in Software Engineering especially website and mobile app. Welcome to my GitHub profile!
 
 ---
 
 ### 🔍 About Me
-- 📍 Based in Kuala Lumpur, Malaysia
+- 📍 Based in Penang, Malaysia
 - 🌐 Multilingual: Fluent in **Mandarin, English,** and **Malay**
 - 🎓 Experienced with both **Software Engineering** and **UI/UX Design**
 - 🖌️ Enjoys blending tech with creativity, as seen in my journey through programming, design, and project collaboration
